@@ -1,0 +1,27 @@
+.container {
+    margin: 20px;
+    width: 400px;
+    height: 300px;
+    background-color: aliceblue;
+}
+
+.main {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+
+.p {
+    margin: 10px;
+    background-color: burlywood;
+}
+
+.div {
+    margin: 10px;
+    background-color: darkkhaki;
+}
+
+.h1 {
+    margin: 10px;
+    background-color: khaki
+}
